@@ -1,0 +1,85 @@
+{
+    "solarSystem": [
+      {
+        "name": "Sun",
+        "weight": "1.989 \u00d7 10^30 kg",
+        "radius": "696,340 km",
+        "moons": [],
+        "description": "The Sun is the star at the center of the Solar System and the primary source of energy for life on Earth.",
+        "distanceFromSun": "0 km",
+        "pictureLink": "https://example.com/sun.jpg"
+      },
+      {
+        "name": "Mercury",
+        "weight": "3.3011 \u00d7 10^23 kg",
+        "radius": "2,439.7 km",
+        "moons": [],
+        "description": "Mercury is the smallest planet in the Solar System and the closest to the Sun.",
+        "distanceFromSun": "57.91 million km",
+        "pictureLink": "https://example.com/mercury.jpg"
+      },
+      {
+        "name": "Venus",
+        "weight": "4.8675 \u00d7 10^24 kg",
+        "radius": "6,051.8 km",
+        "moons": [],
+        "description": "Venus is the second planet from the Sun and is similar in size and structure to Earth.",
+        "distanceFromSun": "108.2 million km",
+        "pictureLink": "https://example.com/venus.jpg"
+      },
+      {
+        "name": "Earth",
+        "weight": "5.97237 \u00d7 10^24 kg",
+        "radius": "6,371 km",
+        "moons": ["Moon"],
+        "description": "Earth is the third planet from the Sun and the only astronomical object known to harbor life.",
+        "distanceFromSun": "149.6 million km",
+        "pictureLink": "https://example.com/earth.jpg"
+      },
+      {
+        "name": "Mars",
+        "weight": "6.4171 \u00d7 10^23 kg",
+        "radius": "3,389.5 km",
+        "moons": ["Phobos", "Deimos"],
+        "description": "Mars is the fourth planet from the Sun and is often referred to as the 'Red Planet'.",
+        "distanceFromSun": "227.9 million km",
+        "pictureLink": "https://example.com/mars.jpg"
+      },
+      {
+        "name": "Jupiter",
+        "weight": "1.8982 \u00d7 10^27 kg",
+        "radius": "69,911 km",
+        "moons": ["Io", "Europa", "Ganymede", "Callisto"],
+        "description": "Jupiter is the largest planet in the Solar System and has a massive system of moons.",
+        "distanceFromSun": "778.5 million km",
+        "pictureLink": "https://example.com/jupiter.jpg"
+      },
+      {
+        "name": "Saturn",
+        "weight": "5.6834 \u00d7 10^26 kg",
+        "radius": "58,232 km",
+        "moons": ["Titan", "Enceladus", "Rhea", "Mimas"],
+        "description": "Saturn is the sixth planet from the Sun, known for its prominent ring system.",
+        "distanceFromSun": "1.434 billion km",
+        "pictureLink": "https://example.com/saturn.jpg"
+      },
+      {
+        "name": "Uranus",
+        "weight": "8.6810 \u00d7 10^25 kg",
+        "radius": "25,362 km",
+        "moons": ["Miranda", "Ariel", "Umbriel", "Titania", "Oberon"],
+        "description": "Uranus is the seventh planet from the Sun and has a unique sideways rotation.",
+        "distanceFromSun": "2.871 billion km",
+        "pictureLink": "https://example.com/uranus.jpg"
+      },
+      {
+        "name": "Neptune",
+        "weight": "1.02413 \u00d7 10^26 kg",
+        "radius": "24,622 km",
+        "moons": ["Triton", "Proteus", "Nereid", "Larissa"],
+        "description": "Neptune is the eighth planet from the Sun and is known for its deep blue color.",
+        "distanceFromSun": "4.495 billion km",
+        "pictureLink": "https://example.com/neptune.jpg"
+      }
+    ]
+  }

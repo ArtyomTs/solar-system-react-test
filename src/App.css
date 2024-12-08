@@ -1,0 +1,18 @@
+#planet-info {
+  display: flex;
+  justify-content: space-between;
+  margin: 0;
+  background-color: black;
+}
+
+#planet-info .planet-details {
+  width: 50%;
+}
+.moon {
+  margin: 10px 5px;
+  padding: 5px;
+  background-color: bisque;
+  color: black;
+  font-weight: bold;
+  border-radius: 5px;
+}
